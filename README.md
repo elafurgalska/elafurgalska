@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on creating a machine learning model to forecast online sales.
+- 🌱 I’m currently learning Data Analysis and Visualisation using Python.
+- 📫 How to reach me: https://www.linkedin.com/in/elzbieta-furgalska-9811b5122
+- 😄 Pronouns: she/her
