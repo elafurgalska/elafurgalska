@@ -14,7 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on creating a machine learning model to forecast online sales.
-- 🌱 I’m currently learning Data Analysis and Visualisation using Python.
-- 📫 How to reach me: https://www.linkedin.com/in/elzbieta-furgalska-9811b5122
+<picture>
+  <source media="prefers-color-scheme: dark)" srcset="https://media.licdn.com/dms/image/C5603AQFQUwzObpV1zw/profile-displayphoto-shrink_400_400/0/1533608715917?e=1715212800&v=beta&t=clZaPHLcohfHHRNRy9VsjGBrk7QqGvnDcMF6Fjuv-38">
+  <source media="prefers-color-scheme: light)" srcset="https://media.licdn.com/dms/image/C5603AQFQUwzObpV1zw/profile-displayphoto-shrink_400_400/0/1533608715917?e=1715212800&v=beta&t=clZaPHLcohfHHRNRy9VsjGBrk7QqGvnDcMF6Fjuv-38">
+  <img alt="Elzbieta Furgalska profile picture" src="https://media.licdn.com/dms/image/C5603AQFQUwzObpV1zw/profile-displayphoto-shrink_400_400/0/1533608715917?e=1715212800&v=beta&t=clZaPHLcohfHHRNRy9VsjGBrk7QqGvnDcMF6Fjuv-38"> </picture><br>
+- 🔭 I’m currently working on creating a machine learning model to forecast online sales.<br>
+- 🌱 I’m currently learning Data Analysis and Visualisation using Python.<br>
+- 📫 How to reach me: https://www.linkedin.com/in/elzbieta-furgalska-9811b5122<br>
 - 😄 Pronouns: she/her
